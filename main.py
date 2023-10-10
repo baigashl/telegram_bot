@@ -15,6 +15,8 @@ from menu import (
 )
 from key_buttons import tele_button, courses
 
+#ldjfhvcoidjfv'codjngpvibkndpfginvpdifnvk
+
 
 ABOUT = tele_button[0]
 COURSES = tele_button[1]
